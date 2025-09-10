@@ -45,7 +45,7 @@ To use this node, you need a Google Cloud Project with the Vertex AI API enabled
     Example `config.ini` for Windows:
     ```ini
     [gcloud]
-    path = C:\Users\MyUser\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin\gcloud.cmd
+    path = C:\Users\UserName\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin\gcloud.cmd
     ```
     *Note: Use the correct path for your operating system.*
 
