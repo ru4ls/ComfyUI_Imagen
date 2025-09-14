@@ -1,2 +1,4 @@
-requests
+# requests
 python-dotenv
+google-auth
+google-cloud-aiplatform
